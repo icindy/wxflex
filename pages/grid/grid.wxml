@@ -1,0 +1,15 @@
+<view class="Grid">
+  <view class="Grid-cell">1/2</view>
+  <view class="Grid-cell">1/2</view>
+</view>
+<view class="Grid">
+  <view class="Grid-cell">1/3</view>
+  <view class="Grid-cell">1/3</view>
+  <view class="Grid-cell">1/3</view>
+</view>
+
+<view class="Grid">
+  <view class="Grid-cell1of6">1/6</view>
+  <view class="Grid-cell2of6">1/3</view>
+  <view class="Grid-cell3of6">1/2</view>
+</view>

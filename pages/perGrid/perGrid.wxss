@@ -1,0 +1,28 @@
+.Grid {
+  display: flex;
+}
+
+.Grid-cell {
+  flex: 1;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  background-color: #efefef;
+  margin: 5px 2px;
+}
+
+.cell-u-full {
+  flex: 0 0 100%;
+}
+
+.cell-u-1of2 {
+  flex: 0 0 50%;
+}
+
+.cell-u-1of3 {
+  flex: 0 0 33.3333%;
+}
+
+.cell-u-1of4 {
+  flex: 0 0 25%;
+}

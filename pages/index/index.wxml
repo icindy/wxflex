@@ -1,0 +1,50 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="first-face face">
+    <view class="pip"></view>
+  </view>
+  <view class="second-face face">
+    <view class="pip second-pip-1"></view>
+    <view class="pip second-pip-2"></view>
+  </view>
+  <view class="third-face face">
+    <view class="pip third-pip-1"></view>
+    <view class="pip third-pip-2"></view>
+    <view class="pip third-pip-3"></view>
+  </view>
+  <view class="fourth-face face">
+    <view class="fourth-face-column">
+      <view class="pip fourth-pip-1"></view>
+      <view class="pip fourth-pip-2"></view>
+    </view>
+    <view class="fourth-face-column">
+      <view class="pip fourth-pip-3"></view>
+      <view class="pip fourth-pip-4"></view>
+    </view>
+  </view>
+  <view class="fifth-face face">
+    <view class="fifth-face-column">
+      <view class="pip fifth-pip-1"></view>
+      <view class="pip fifth-pip-2"></view>
+    </view>
+    <view class="fifth-face-column fifth-face-column-2">
+      <view class="pip fifth-pip-3"></view>
+    </view>
+    <view class="fifth-face-column">
+      <view class="pip fifth-pip-4"></view>
+      <view class="pip fifth-pip-5"></view>
+    </view>
+  </view>
+  <view class="sixth-face face">
+    <view class="sixth-face-column">
+      <view class="pip sixth-pip-1"></view>
+      <view class="pip sixth-pip-2"></view>
+      <view class="pip sixth-pip-3"></view>
+    </view>
+    <view class="sixth-face-column">
+      <view class="pip sixth-pip-4"></view>
+      <view class="pip sixth-pip-5"></view>
+      <view class="pip sixth-pip-6"></view>
+    </view>
+  </view>
+</view>

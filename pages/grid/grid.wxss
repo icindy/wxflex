@@ -1,0 +1,40 @@
+.Grid {
+  display: flex;
+}
+
+/*1/3平分*/
+.Grid-cell {
+  flex: 1;
+  height: 30px;
+  line-height: 30px;
+  background-color: #efefef;
+  text-align: center;
+  margin: 5px 2px;
+}
+
+.Grid-cell1of6 {
+  flex: 1;
+  height: 30px;
+  line-height: 30px;
+  background-color: #efefef;
+  text-align: center;
+  margin: 5px 2px;
+}
+
+.Grid-cell2of6 {
+  flex: 2;
+  height: 30px;
+  line-height: 30px;
+  background-color: #efefef;
+  text-align: center;
+  margin: 5px 2px;
+}
+
+.Grid-cell3of6 {
+  flex: 3;
+  height: 30px;
+  line-height: 30px;
+  background-color: #efefef;
+  text-align: center;
+  margin: 5px 2px;
+}
